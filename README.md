@@ -2,6 +2,10 @@
 
 Cal-ICOR, November 2026. Tests ran on 2026-11-09 and 2026-11-10 in us-central1.
 
+Benchmarking runbook and results were done by both @shaneknapp and claude code.
+
+Raw (and sanitized) results are in the [results/](https://github.com/cal-icor/gcp-n2-vs-e2-benchmarking/tree/main/results) directory, and the benchmarking script is in the repo root.
+
 ## Summary
 
 - E2 fails as a primary user node. Single-threaded Python, numpy, pandas and R ran 1.2x to 2.6x slower on E2 than on N2, and our limit was 1.30x.
