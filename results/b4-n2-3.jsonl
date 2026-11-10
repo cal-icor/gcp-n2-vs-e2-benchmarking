@@ -1,0 +1,13 @@
+{"kind": "cpu", "model": "Intel(R) Xeon(R) CPU @ 2.80GHz", "vendor": "GenuineIntel", "nproc": 8}
+{"kind": "task", "task": "python_loop", "median": 9.366504597000016, "runs": [9.352315355999963, 9.79221295299999, 9.560437257000103, 9.366504597000016, 9.31355526599998]}
+{"kind": "task", "task": "numpy_1t", "median": 0.8710811690000355, "runs": [0.8514201540000386, 0.8697046169999112, 0.8882299450000346, 0.8710811690000355, 0.8826030660000015]}
+{"kind": "task", "task": "pandas", "median": 2.050275653999961, "runs": [2.055958001000022, 2.0636996069999896, 2.050275653999961, 1.9979667080000354, 1.9812830759999542]}
+{"kind": "task", "task": "r_matmul", "median": 0.273, "runs": [0.273, 0.271, 0.273, 0.282, 0.283]}
+{"kind": "task", "task": "r_loop", "median": 14.061, "runs": [13.995, 13.976, 14.061, 14.236, 14.069]}
+{"kind": "task", "task": "numpy_8t", "median": 0.25720842800001265, "runs": [0.2543149570000196, 0.3328156189999163, 0.2550668430000087, 0.2756697399998984, 0.25720842800001265]}
+{"kind": "task", "task": "multicore_8proc", "median": 21.105940633000046, "runs": [22.324697126999922, 20.79585474199996, 21.123644850999995, 20.844081102000132, 21.105940633000046]}
+{"kind": "notebook", "notebook": "Hawthorne_test.ipynb", "seconds": 8.078907298000104, "returncode": 0, "error": ""}
+{"kind": "notebook", "notebook": "all_hub_basic_notebook.ipynb", "seconds": 11.563187943999992, "returncode": 0, "error": ""}
+{"kind": "notebook", "notebook": "cpp_kernel_test.ipynb", "seconds": 6.7337507020001794, "returncode": 0, "error": ""}
+{"kind": "notebook", "notebook": "gpt2_stack_test.ipynb", "seconds": 12.234889930000008, "returncode": 0, "error": ""}
+{"kind": "notebook", "notebook": "lec01_executed_1.ipynb", "seconds": 7.887676908000003, "returncode": 0, "error": ""}

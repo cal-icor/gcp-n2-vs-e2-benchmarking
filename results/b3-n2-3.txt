@@ -1,0 +1,10 @@
+2026-11-09T21:50:25Z   Pulling                bench-pull-n2-3-1   Pulling image "<registry>/image-1"
+2026-11-09T21:50:26Z   Pulling                bench-pull-n2-3-3   Pulling image "<registry>/image-3"
+2026-11-09T21:50:26Z   Pulling                bench-pull-n2-3-2   Pulling image "<registry>/image-2"
+2026-11-09T21:50:27Z   Pulling                bench-pull-n2-3-4   Pulling image "<registry>/image-4"
+2026-11-09T21:50:27Z   Pulling                bench-pull-n2-3-5   Pulling image "<registry>/image-5"
+2026-11-09T21:55:12Z   Pulled                 bench-pull-n2-3-3   Successfully pulled image "<registry>/image-3" in 4m45.515s (4m45.515s including waiting). Image size: 4564031087 bytes.
+2026-11-09T21:55:54Z   Pulled                 bench-pull-n2-3-2   Successfully pulled image "<registry>/image-2" in 5m28.635s (5m28.635s including waiting). Image size: 5085965731 bytes.
+2026-11-09T21:57:03Z   Pulled                 bench-pull-n2-3-1   Successfully pulled image "<registry>/image-1" in 6m38.695s (6m38.695s including waiting). Image size: 8209852570 bytes.
+2026-11-09T21:57:53Z   Pulled                 bench-pull-n2-3-4   Successfully pulled image "<registry>/image-4" in 2m41.52s (7m26.769s including waiting). Image size: 3249456898 bytes.
+2026-11-09T21:58:25Z   Pulled                 bench-pull-n2-3-5   Successfully pulled image "<registry>/image-5" in 2m31.047s (7m57.813s including waiting). Image size: 2826766745 bytes.

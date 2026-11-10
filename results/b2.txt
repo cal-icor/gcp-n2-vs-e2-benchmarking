@@ -1,0 +1,24 @@
+fam=e2 run=1 node=bench-e2-group1-node1
+pod_created  2026-11-09T19:49:30Z
+node_created 2026-11-09T19:50:13Z
+node_ready   2026-11-09T19:50:24Z
+fam=e2 run=2 node=bench-e2-group2-node2
+pod_created  2026-11-09T20:22:45Z
+node_created 2026-11-09T20:23:31Z
+node_ready   2026-11-09T20:23:51Z
+fam=e2 run=3 node=bench-e2-group1-node3
+pod_created  2026-11-09T20:55:49Z
+node_created 2026-11-09T20:56:30Z
+node_ready   2026-11-09T20:56:39Z
+fam=n2 run=1 node=bench-n2-group1-node1
+pod_created  2026-11-09T21:14:43Z
+node_created 2026-11-09T21:15:16Z
+node_ready   2026-11-09T21:15:25Z
+fam=n2 run=2 node=bench-n2-group2-node2
+pod_created  2026-11-09T21:32:33Z
+node_created 2026-11-09T21:33:03Z
+node_ready   2026-11-09T21:33:12Z
+fam=n2 run=3 node=bench-n2-group1-node3
+pod_created  2026-11-09T21:48:40Z
+node_created 2026-11-09T21:49:21Z
+node_ready   2026-11-09T21:49:32Z
